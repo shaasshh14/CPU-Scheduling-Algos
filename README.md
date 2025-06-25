@@ -18,6 +18,16 @@ A C++ project that simulates major CPU scheduling algorithms with support for cu
 - Supports both preemptive and non-preemptive strategies
 - Outputs scheduling stats or trace timelines
 
+## Installation
+
+1. Clone the repository  
+2. Install g++ compiler and make  
+   ```bash
+   sudo apt-get install g++ make
+   ```
+3. Compile the code using `make` command  
+4. Run the executable file  
+
 ## Usage
 
 1. Compile the project using:
